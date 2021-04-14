@@ -6,9 +6,9 @@ package com.hcl.MavenDemo;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void m1( )
     {
-        System.out.println( "Hello World! all" );
+        System.out.println( "M1 Call" );
         System.out.println("hi");
     }
 }
